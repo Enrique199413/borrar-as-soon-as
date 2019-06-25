@@ -4,5 +4,5 @@ console.log('hola como estas');
 console.log('Super');
 console.log('Super');
 
-console.log("Aqui escuchando a Pepe Pepe
+console.log("Aqui escuchando a Pepe Pepe xD")
 
